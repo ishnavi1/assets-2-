@@ -19,6 +19,9 @@ A simple PHP web system for managing an inventory.
 ## Usage
 * Access the login.php file from via browser and give _guest_ as username and _1234_ as password
 
+## Live Project link
+inventorysys.in
+
 
 ## Acknowledgments
 * Inspired by many similar projects online
